@@ -22,4 +22,4 @@ A floating music player that works with Spotify, YouTube Music, and Tidal, stayi
 - **Spring Boot** - Backend service framework 
 
 ## NOTE
-This app is still in development right now. I am aiming to release it sometime this spring 2025.
+This app is still in development right now. I am aiming to release it sometime this spring 2025. I am currently implementing the ability to switch between sources.
